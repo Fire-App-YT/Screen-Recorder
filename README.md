@@ -6,4 +6,4 @@
 
 > <ul>tray menu</ul>
 
-> <ul>onclick tray menu to hide and show screen recorder app</ul>
+> <ul>by clicking tray menu to hide and show screen recorder app</ul>
